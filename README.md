@@ -70,9 +70,3 @@ OPENAI_API=your_openai_api_key_here
    python main.py
    ```
 
-
-## Disclaimer
-
-This is a v0.1 release and might have some bugs. Please report any issues on the [GitHub Repository](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator).
-
-
