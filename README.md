@@ -2,11 +2,6 @@
 
 AI Youtube Shorts Generator is a Python tool designed to generate engaging YouTube shorts from long-form videos. By leveraging the power of GPT-4 and Whisper, it extracts the most interesting highlights, detects speakers, and crops the content vertically for shorts. This tool is currently in version 0.1 and might have some bugs.
 
-If you wish to add shorts generation into your application, here is an api to create shorts from long form videos :- https://docs.vadoo.tv/docs/guide/create-ai-clips
-
-### Youtube tutorial -> https://youtu.be/dKMueTMW1Nw
-
-### Medium tutorial -> https://medium.com/@anilmatcha/ai-youtube-shorts-generator-in-python-a-complete-tutorial-c3df6523b362
 
 ![longshorts](https://github.com/user-attachments/assets/3f5d1abf-bf3b-475f-8abf-5e253003453a)
 
@@ -75,16 +70,9 @@ OPENAI_API=your_openai_api_key_here
    python main.py
    ```
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Disclaimer
 
 This is a v0.1 release and might have some bugs. Please report any issues on the [GitHub Repository](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator).
 
-6
+
